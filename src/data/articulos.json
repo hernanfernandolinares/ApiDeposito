@@ -1,0 +1,254 @@
+[
+    {
+    "id": "1",
+    "codigo": "AL0013",
+    "nombre": "ACEITE HIDRAULICO NUTO H 32",
+    "bio": "ACEITE HIDRAULICO NUTO H 32 * Marca *MOBIL *(  Uso en atomizador CMT dela P.A.E. 4 )*",
+    "img": "",
+    "unidad": "LT",
+    "familia": "lubricantes"
+  },
+  {
+    "id": "2",
+    "codigo": "AL0021",
+    "nombre": "ACEITE PARA BOMBA DE VACÍO BOSCH RA 0100 F 503: MARCA BUSCH - TIPO VS 100",
+    "bio": "ACEITE PARA BOMBA DE VACÍO BOSCH RA 0100 F 503: MARCA BUSCH - TIPO VS 100 - TRABAJO A TEMPERATURA AMBIENTE MAYOR A 30ºC; USO EN BOMBA DE VACÍO BUSCH RA 0100 F 503 (LÍNEA DE PALETIZADO CONCETTI - SECTOR PAE II ).-",
+    "img": "",
+    "unidad": "LT",
+    "familia": "lubricantes"
+  },
+  {
+    "id": "3",
+    "codigo": "AL0060",
+    "nombre": "ACEITE CILINDRO C-1000 * 'YPF'",
+    "bio": "ACEITE CILINDRO C-1000 * 'YPF' * (CARACOLES / RASCADOR DIGEST. F.F.; CADENAS DE TRANSMISION; LUBRICACIÓN BUGGIES DE CHATAS ) *",
+    "img": "",
+    "unidad": "LT",
+    "familia": "lubricantes"
+  },
+  {
+    "id": "4",
+    "codigo": "AL0101",
+    "nombre": "ACEITE P/TRANSMISIÓN A CADENA *SKF* LHMT 68",
+    "bio": "ACEITE P/TRANSMISIÓN A CADENA *SKF* LHMT 68 * ( PARA USO EN TRANSMISIONES DE CADENA, EN LÍNEA DE PALETIZADO CONCETTI DE PAE II ) ",
+    "img": "",
+    "unidad": "LT",
+    "familia": "lubricantes"
+  },
+  {
+    "id": "5",
+    "codig": "AS2041",
+    "nombre": "ESPARRAGO DIAMETRO 1 ¾” CON EXTREMOS ROSCADOS* LONGITUD TOTAL 600 MM*",
+    "bio": "ESPARRAGO DIAMETRO 1 ¾” CON EXTREMOS ROSCADOS* LONGITUD TOTAL 600 MM* MATERIAL DEL ESPARRAGO ACERO SAE 4140* CON TUERCAS DE ACERO SAE 1045* SEGÚN PLANO INDUNOR N° 111999-1025-143* USO EN POLEA PRINCIPAL DE ASERRINERA N°2",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Aserrinera"
+  },
+  {
+    "id": "6",
+    "codigo": "AS0500",
+    "nombre":"TORNILLO ALLEN CABEZA CILINDRICA*DIAM.1,1/4' RW. X 7 HIL./PULG. X 95 MM.DE LARGO;",
+    "bio": "TORNILLO ALLEN CABEZA CILINDRICA*DIAM.1,1/4' RW. X 7 HIL./PULG. X 95 MM.DE LARGO; ROSCA AL FONDO - ACERO S/NORMA DIN 267,  GRADO 10.9 *SEG.* PLANO 111 040/554/107  REV.3 DEL 14-07-2018 * (USO EN LA FIJACION DE LA CONTRACUCHILLA AL CHAPON DE LAS ASERRINERAS 1/ 2/ 3* ( 12 PZAS.POR ASERRINERAS ) *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Aserrinera"
+  },
+  {
+    "id": "7",
+    "id": "AS0913",
+    "nombre":"PLACA APRIETA CUCHILLAS de 455 x 175 x 30 mm. (LONG. x ANCHO x ESP.)",
+    "bio": "PLACA APRIETA CUCHILLAS de 455 x 175 x 30 mm. (LONG. x ANCHO x ESP.) - MATERIAL: SAE 1020 TEMPLADO - PLANO Nº 111 000/841/57 REV.6 DEL 30-07- 2018  * ( USO COMO APRIETA CUCHILLAS DEL TAMBOR DE ASERRINERAS * 20 PZAS. POR TAMBOR ) 'ACEITE CILINDRO C-1000 * 'YPF''",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Aserrinera"
+  },
+  {
+    "id": "8",
+    "codig": "AS3010",
+    "nombre":"EJE DE 90/80/70/ROSCA M90-2 X 1090 M.M  (DIAMETRO EXT. X LONG.TOTAL.)",
+    "bio": "EJE DE 90/80/70/ROSCA M90-2 X 1090 M.M  (DIAMETRO EXT. X LONG.TOTAL.)*MAT.: SAE 1045*S/PL.Nº 111 070/567/33,REV.2 DEL 04/12/2009,POS.1*USO C/EJE PRINCIPAL DEL  MOLINO DE ASTILLAS DE LAS ASERRINERAS* 1PZA. POR EQUIPO*",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Aserrinera"
+  },
+  {
+    "id": "9",
+    "codigo": "AU1095",
+    "nombre":"SIRENA ELECTRÓNICA RETROCESO:P/Grúas BELL/TECFOR/TIGERCAT ) ",
+    "bio": "SIRENA ELECTRÓNICA RETROCESO:P/Grúas BELL/TECFOR/TIGERCAT ) * Marca*KINGBOX* Código: EOP; DB 110; 12 VOLT; SONIDOS 1 (UNO); DIÁMETRO 95mm; LARGO 70mm. ( USO EN SISTEMA DE ALARMA DE RETROCESO EN GRÚAS)*",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Automotor"
+  },
+  {
+    "id": "10",
+    "codigo": "AU1141",
+    "nombre":"MANGUERA HIDRAULICA Ø 1/2' SAE 100 R2, LONG. 1150 mm",
+    "bio": "MANGUERA HIDRAULICA Ø 1/2' SAE 100 R2, LONG. 1150 mm. * C/TERMINAL PRENSABLE EN UN EXTREMO RECTO ROSCA UNF 3/4' X 16 HILOS/PULG. HEMBRA GIRATORIA  *EN EL OTRO EXTREMO CODO A 90º ROSCA UNF 7/8' X 14 HILOS/PULG. HEMBRA GIRATORIA AMBOS ASIENTOS JIC. 37º  USO EN GRÚAS BELL  ",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Automotor"
+  },
+  {
+    "id": "11",
+    "codigo": "AU1507",
+    "nombre":"FILTRO DE ACEITE MOTOR;CODIGO NISSAN: 15208-43G00",
+    "bio": "FILTRO DE ACEITE MOTOR;CODIGO NISSAN: 15208-43G00* (USO EN LOS AUTOELEVADORES  NUEVOS DE LA PAE II Y DESPACHOS ) *#",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Automotor"
+  },
+  {
+    "id": "12",
+    "codigo": "AU1555",
+    "nombre":"MOTOR DE ARRANQUE DE 12V.* HITACHI*1W400 /514-205/85T/A",
+    "bio": "MOTOR DE ARRANQUE DE 12V.* HITACHI*1W400 /514-205/85T/A* PARA MOTOR NISSAN TIPO TD 27 * CODIGO NISSAN 23300-80G00 * PARA AUTOELEVADORES 5 Y 6, GASOLEROS * Y  EN AUTOELEVADORES (NISSAN PAEII Y NISSAN DE DESPACHO) *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Automotor"
+  },
+  {
+    "id": "13",
+    "codigo": "BO9535",
+    "nombre":"ELECTROBOMBA SUMERGIBLE - MARCA: GRUNDFOS – MODELO: MK4D-13 – 1,5 HP",
+    "bio": "ELECTROBOMBA SUMERGIBLE - MARCA: GRUNDFOS – MODELO: MK4D-13 – 1,5 HP – ALIMENTACION ELECTRICA: 380 V – MATERIAL: AISI 304 – CAUDAL: 6 m3/h– ALTURA MANOMETRICA: 45 m.c.a.*-",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Bombas"
+  },
+  {
+    "id": "14",
+    "codigo": "BO0990",
+    "nombre":"BOMBA HORIZONTAL A ENGRANAJES DOBLE HELICOIDALES Marca *MARZO* MODELO  BER 1,1/2'",
+    "bio": "BOMBA HORIZONTAL A ENGRANAJES DOBLE HELICOIDALES Marca *MARZO* MODELO  BER 1,1/2', CON CONEXIONES A ROSCAS DE Ø 1,1/2' X  1,1/2' * INDUSTRIA ARGENTINA, EN CONSTRUCCIÓN: CUERPO Y TAPA EN HIERRO FUNDIDO, EJES DE ACERO RECTIFICADO, GUIADO POR BUJES DE METAL BLANCO, ENGRANAJES DE ACERO TRATADO *TIPO CHEVRON * (  LA BOMBA SE PROVEERÁ CON EMPAQUETADURA APTA PARA BOMBEO DE FUEL OIL ) *#",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Bombas"
+  },
+  {
+    "id": "15",
+    "codigo": "BO0951",
+    "nombre":"CONTRA DISCO DE EQUILIBRIO PARA BOMBA KSB-ITALIA MOD. HDB 80-12 Y HDB -13",
+    "bio": "CONTRA DISCO DE EQUILIBRIO PARA BOMBA KSB-ITALIA MOD. HDB 80-12 Y HDB -13* MATERIAL: SAE 1045 - VER PLANO Nº 210 097/1149/08 DEL 28-05- 2019 (HAY SECTORES INTERNOS CONTRATAMIENTO SUPERFICIAL CEMENTADO) - (USO EN LAS BOMBAS "KSB-ITALIA" Nº 1 SERIES Nº: 2-202-136.126/1;2-202- 136.126/2 Y 2-202- 145.232/1 ) * ( BOMBA DE ALIMENTACION DE AGUA A CALDERA SAPORITI ) *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Bombas"
+  },
+  {
+    "id": "16",
+    "codig": "BO6518",
+    "nombre":"SELLO DISTRIBUIDOR (POS.30) DE BOMBA NEUMATICA A DIAFRAGMA, MARCA TECNO-PERANIC MOD. R1-21-SD",
+    "bio": "SELLO DISTRIBUIDOR (POS.30) DE BOMBA NEUMATICA A DIAFRAGMA, MARCA TECNO-PERANIC MOD. R1-21-SD * DIAM.1' * ( USO EN TS /  SULFITACION/WIEGAND / BISULFITO / FF  )*  (EN:  JUEGO DE 6 PZAS ) *#",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Bombas"
+  },
+  {
+    "id": "17",
+    "codigo": "ME2796",
+    "nombre":"FUENTE DE ALIMENTACION SIEMENS SITOP, MODULAR *REF.:6EP1 333- 2BA00*ENTRADA MO- NOFASICA AC;TENSION NOMINAL: 120/230VAC.",
+    "bio": "FUENTE DE ALIMENTACION SIEMENS SITOP, MODULAR *REF.:6EP1 333- 2BA00*ENTRADA MO- NOFASICA AC;TENSION NOMINAL: 120/230VAC.*INTENSIDAD NOMINAL DE SALIDA: 5A ; TEN- SION NOMINAL DE SALIDA: 24 VDC.* USO GE NERAL EN FABRICA:REGISTRADORES, CONTROLA DORES,TRANSMISORES E INDICADORES DE PRESION *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Materiales Electricos"
+  },
+  {
+    "id": "18",
+    "codigo": "ME5355",
+    "nombre":"FOTOCELULA MARCA FAMMIE FAMI,MOD.RTF-82, P/ALUMBRADO PUBLICO",
+    "bio": "FOTOCELULA MARCA FAMMIE FAMI,MOD.RTF-82, P/ALUMBRADO PUBLICO* RESPONDE A NORMAS IRAM 20-24/20-25, CUBIERTA DE POLIPROPILENO ESTABILIZADO* FOTOSENSOR DE SULFURO DE CADMIO, CONTACTOS DE PLATA DE 10A.; REPUESTA DE LUZ TIEMPO REGULABLE *",
+    "img": "",
+    "unidad": "",
+    "familia": "Materiales Electricos"
+  },
+  {
+    "id": "19",
+    "id": "ME8000",
+    "nombre":"DETECTOR DE NIVEL CONDUCTIVO.MOD:CDNL 2M*  SERIE.1120 ; ALIMENTACIÓN: 220 V.",
+    "bio": "DETECTOR DE NIVEL CONDUCTIVO.MOD:CDNL 2M*  SERIE.1120 ; ALIMENTACIÓN: 220 V.*   * CODIGO: 0346 DE"C.C.G."ELECTRONICA    Nº 5-8461 AL 5-8463 ; GABINETE: 2M *   ( USO EN EL SISTEMA DE DESAHOGOS DE LOS DIFUSORES DE BATERIA ) *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Materiales Electricos"
+  },
+  {
+    "id": "20",
+    "codigo": "ME9790",
+    "nombre":"ALARMA AUDIOVISUAL GIRATORIA – TENSION DE ALIMENTACION: 100 A 240 V",
+    "bio": "ALARMA AUDIOVISUAL GIRATORIA – TENSION DE ALIMENTACION: 100 A 240 V – TORRETA GIRATORIA COLOR: ROJA O AMBAR - TIPO DE SONIDO: INTERMITENTE O MULTISONIDO – NIVEL SONORO: 95 A 120 DB (CON VOLUMEN AJUSTABLE) – TIPO DE PROTECCION: IP67",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Materiales Electricos"
+  },
+  {
+    "id": "21",
+    "codigo": "MM0787",
+    "nombre":"BARRA DE ZINC ELECTROLITICO* ART.9236942 DE ALBERTO MALITO & CIA.S.R.L.)",
+    "bio": "BARRA DE ZINC ELECTROLITICO* ART.9236942 DE ALBERTO MALITO & CIA.S.R.L.) * DE: 220 X 150 X 30 MM.DE ESPESOR *          * USO EN INTERCAMBIADORES DE CALOR DE   TURBINAS DE SALA DE MAQUINAS, COMO ANODO DE SACRIFICIO*",
+    "img": "",
+    "unidad": "Kg",
+    "familia": "Materiales Mantenimiento"
+  },
+  {
+    "id": "22",
+    "codigo": "MM0979",
+    "nombre":"BULON AISI 316* CAB.HEXAGONAL M10 X1,5 X30 MM.; ROSCA TOTAL, CON TUERCA EXAGONAL",
+    "bio": "BULON AISI 316* CAB.HEXAGONAL M10 X1,5 X30 MM.; ROSCA TOTAL, CON TUERCA EXAGONAL  ( RESPETAR LA CALIDAD DEL INOXIDABLE )  * USO EN PLANTA DE FF.P/SUJECION DE LOS PLATOS DE LA 1RA.COLUMNA GRANDE NUEVA *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Materiales Mantenimiento"
+  },
+  {
+    "id": "23",
+    "codigo": "MM2005",
+    "nombre":"BARRA AISI 420 *DIAM.31,75.MM. EJES BOMBAS",
+    "bio": "BARRA AISI 420 *DIAM.31,75.MM.(EJES BOM-BAS *(O EQUIVALENTE UNI X 20 CR 13/AFNOR Z 20 C 13/W.N 1.4021) * (6,21 KG/MT) *",
+    "img": "",
+    "unidad": "Kg",
+    "familia": "Materiales Mantenimiento"
+  },
+  {
+    "id": "24",
+    "codigo": "MM2398",
+    "nombre":"CHAPA DE ALUMINIO LISA 0,8 MM.ESPESOR",
+    "bio": "CHAPA DE ALUMINIO LISA 0,8 MM.ESPESOR, EN ROLLO X 1 MT.DE ANCHO (PESO: 2,16 kGS/M2 .)* ROLLO X 50 MTS.LONG. * * ( USO EN AISLACIONES EN GRAL. ) *",
+    "img": "",
+    "unidad": "Kg",
+    "familia": "Materiales Mantenimiento"
+  },
+  {
+    "id": "25",
+    "codigo": "RI1070",
+    "nombre":"MANOMETRO DE 0 A 2 BAR* CUADRANTE 100 MM.DE DIAM.",
+    "bio": "MANOMETRO DE 0 A 2 BAR* CUADRANTE 100 MM.DE DIAM. * EN AISI 304 * CONEXIÓN A PROCESO ROSCA 1/2' NPT * USO EN LA LINEA DE NITRÓGENO DE FABRICA *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Instrumentos"
+  },
+  {
+    "id": "26",
+    "codigo": "RI1400",
+    "nombre":"MANOVACUOMETRO T/DENTADO ESC: -1 Á 4 BAR",
+    "bio": "MANOVACUOMETRO T/DENTADO ESC: -1 Á 4 BAR ( -1 BAR Á 4 BAR),TODO EN AC.AISI 316, CUADRANTE DIAMETRO: 150 MM.; CONEXION A PROCESO INFERIOR,DIAM.1/2' GAS.,DIVISION ACC.:1.0 *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Instrumentos"
+  },
+  {
+    "id": "27",
+    "id": "RI2519",
+    "nombre":"TERMORESISTENCIA PT100, 3 HILOS,VAINA AC.INOX.AISI 316 DE 100 mm.LONG.X 6,35 mm.DE DIAMETRO",
+    "bio": "TERMORESISTENCIA PT100, 3 HILOS,VAINA AC.INOX.AISI 316 DE 100 mm.LONG.X 6,35 mm.DE DIAMETRO * SALIDA: CABLE CAUCHO SILICONA DE 6MTS.DE LONGITUD.  * ( Uso General en fabrica ) *#",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Instrumentos"
+  },
+  {
+    "id": "28",
+    "codigo": "RI2525",
+    "nombre":"CAUDALIMETRO ELECTROMAGNETICO ABB Modelo IFEP612",
+    "bio": "CAUDALIMETRO ELECTROMAGNETICO ABB Modelo IFEP612 - Code: FEP612.Y0.P1.0050.A1.T1.B.1.S.0.A.70.Y.0.Y0.A-…SC2 *Construcc.Remota;Diam.DN50, 2 in.; Conex. ASME  #150 Acero carbono;liner en PTFE; electrodos SS 316Ti; cerramiento IP67; cable de 10 m.; Electrónica remota alimentac.100-240 VAC ó 24-48 VDC; Display y teclado; Salidas 1AO 2DO *",
+    "img": "",
+    "unidad": "Pz",
+    "familia": "Instrumentos"
+  }
+]
