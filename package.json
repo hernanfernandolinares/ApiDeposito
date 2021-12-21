@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hernanfernandolinares/ApiDeposito/issues"
   },
-  "homepage": "https://github.com/hernanfernandolinares/ApiDeposito#readme"
+  "homepage": "https://github.com/hernanfernandolinares/ApiDeposito#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1"
+  }
 }
