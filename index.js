@@ -1,13 +1,14 @@
-// require("dotenv").config();
+require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 const cors = require("cors");
-const PORT = 3000;
-const MONGO_URL ="mongodb+srv://userDeposito:deposito@cluster0.lmdnk.mongodb.net/deposito?retryWrites=true&w=majority"
+const PORT = process.env.PORT || 3000;
+const MONGO_URL = process.env.MONGO_DB_URL;
 
 const app = express();
 const router = require("./src/routes/index");
+
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
